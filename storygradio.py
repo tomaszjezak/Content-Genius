@@ -6,7 +6,7 @@ from steamship.invocable import post, PackageService
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = 
 
 
 
